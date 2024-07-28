@@ -1,0 +1,38 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <title>Afficher la date et l'heure en temps réel en javascript</title>
+    <script>
+    function date_heure(id)
+{
+        date = new Date;
+        annee = date.getFullYear();
+        moi = date.getMonth();
+        mois = new Array('Janvier', 'F&eacute;vrier', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Ao&ucirc;t', 'Septembre', 'Octobre', 'Novembre', 'D&eacute;cembre');
+        j = date.getDate();
+        jour = date.getDay();
+        jours = new Array('Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi');
+        h = date.getHours();
+        if(h<10)
+        {
+                h = "0"+h;
+        }
+        m = date.getMinutes();
+        if(m<10)
+        {
+                m = "0"+m;
+        }
+        s = date.getSeconds();
+        if(s<10)
+        {
+                s = "0"+s;
+        }
+        resultat = '<table><tr><td style=\"width:300px; font-family:arial;text-align:center;font-size:16pt;font-weight:bold; \">'+jours[jour]+' '+j+' '+mois[moi]+' '+annee+'</td></tr><tr><td  style=\"font-family:arial;text-align:center;font-size:26pt;font-weight:bold; \">'+h+':'+m+':'+s+'</ts></tr></table>';
+        document.getElementById(id).innerHTML = resultat;
+        setTimeout('date_heure("'+id+'");','1000');
+        return true;
+}
+</script></head>
+    <body>
+            <span id="date_heure"><table><tbody><tr><td style="width:1000px; font-family:arial;text-align:center;font-size:18pt;font-weight:bold; ">Dimanche 5 Mai 2024</td></tr><tr><td style="font-family:arial;text-align:center;font-size:22pt;font-weight:bold; ">21:08:30</td></tr></tbody></table></span>
+            <script type="text/javascript">window.onload = date_heure('date_heure');</script>
+</body></html>

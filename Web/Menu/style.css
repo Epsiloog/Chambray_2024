@@ -1,0 +1,20 @@
+.menu {
+    display: flex;              /* Transformation en flexbox */
+    padding:0;                  /* Suppression des marges internes */
+    background-color: #ccc;     /* Ajout de la couleur d'arrière-plan */
+}
+
+.menu li {
+    list-style-type: none ;       /* Suppression des puces */
+}
+
+.menu a {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */
+}
+
+///* [[1,5,9],[3,5,7],[1,2,3],[1,4,7],[7,8,9],
+	 [3,6,9],[2,5,8],[4,5,6]] */
+	 
+boolean[] test;
+test = new boolean[]{True,False}
