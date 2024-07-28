@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tellucky-block:blocks/lucky_block",
+    "up": "tellucky-block:blocks/lucky_block",
+    "north": "tellucky-block:blocks/lucky_block",
+    "east": "tellucky-block:blocks/lucky_block",
+    "south": "tellucky-block:blocks/lucky_block",
+    "west": "tellucky-block:blocks/lucky_block",
+    "particle": "tellucky-block:blocks/lucky_block"
+  }
+}

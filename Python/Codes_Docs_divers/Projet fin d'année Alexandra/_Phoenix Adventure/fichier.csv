@@ -1,0 +1,515 @@
+indice,gauche,droit,texte,image
+0,1,0,"Bienvenue sur Phoenix Adventure. Tu t’apprêtes à te plonger dans une histoire interactive.
+Chaque choix que tu feras aura une importance sur l’histoire, choisis bien !
+Pour avancer clique sur « Suivant ».
+Pour faire un choix, clique sur le bouton correspondant à ton choix [GAUCHE] ou [DROIT].",10.png
+1,2,0,"Tu ouvres les yeux sur un tapis de mousse. Tu te relèves pour regarder où tu es. De toute évidence tu es dans une forêt. La lumière qui filtre à travers les arbres donne un aspect surréaliste au sous bois, comme s'il était enchanté. 
+Comment t’es tu retrouvé ici ? Tu n’en as pas la moindre idée. Tu ne sais ni où tu es, ni ce que tu fais ici, où tout ce qui précède le moment où tu as ouvert les yeux. 
+Soudain tu entends, au travers des chants d’oiseaux, une voix lointaine, plusieurs voix en réalité. Tu décides de marcher dans leur direction.",1.png
+2,3,0,"Les voix se muent en conversations. En sortant du sous bois tu te retrouves à l'entrée d'un village. Un jeune homme, probablement habitant le village, s’adresse à toi : 
+- Bonjour étranger qui es-tu ? 
+- Je ... Je ne sais plus et je crois que je suis perdu. Je ne sais pas comment je me suis retrouvé ici. Où sommes nous ? 
+Le villageois reste interdit un instant et s’exclame:
+- Je pense que tu trouveras tes réponses auprès du phœnix. Il est là bas plus loin dans la forêt. 
+Comment un phœnix pourrait-il te venir en aide ? Et c'est quoi un 'phœnix' ??",2.png
+3,4,5,"Tu quittes le village et continues ton chemin dans la forêt, tu aperçois le phœnix. Une fois face à lui tu hésites. Après avoir vérifié que personne ne pourrait remarquer l'étrangeté de ton action, tu lui demandes:
+- Excuse moi ? Eu.. Je suis perdu et on m'a dit de venir te voir...
+L'oiseau ne répond pas. Après tout, à quoi t'attendais-tu, les oiseaux ne parlent pas.
+Tu t'apprêtes à faire demi-tour lorsque le phœnix te répond:
+- Cela fait longtemps que j’attends ton arrivée. Je vais t’aider à trouver ton chemin. Mais avant cela, que souhaites-tu faire ? Veux-tu aller 
+[GAUCHE] dans un château ou
+[DROITE] dans un marais",3.png
+4,6,0,"Tu sors de la forêt en étant guidé par le phœnix. Tu ne sais pas en quoi allez dans un château te permettra de te rappeler qui tu es et pourquoi tu étais là, mais au moins tu trouveras des gens civilisés. Tu espères. 
+Vous marchez sur un long sentier qui traverse plusieurs hamaux et villages. Tu es épuisé quand, enfin, tu vois au loin un château. Il est impressionnant de par sa taille mais en même temps tu éprouves un certain oppressement, sans savoir pourquoi.
+- C’est le fameux château de Hargöl, t’indique ton nouveau compagnon. 
+Vous atteignez enfin l’entrée. Les gardes écarquillent les yeux en regardant alternativement toi et le phœnix. Ils vous demandent ensuite de les suivre. 
+Il est bien facile d'entrer dans ce château.. ",4.png
+5,167,0,"Tu sors de la forêt en étant guidé par le phœnix. 
+Vous empruntez des sentiers, qui n'en portent que le nom, vous faisant traverser de nombreuses forêts. Tu es épuisé quand vous arrivez au niveau d'un marécage humide et peu rassurant.
+Tu es plutôt effrayé par ce lieu. Tu aperçois une cabane au loin. Ton phoenix t'indique d'y aller. Alors que tu te rapproches des corbeaux, qui poussent des cris effroyables, se prennent de la bonne idée de vous accompagner. 
+Tu t’approches de l’entrée et toque à la porte. Une vieille voix fatiguée s’exclame 
+- Oui entre donc !",5.jpg
+6,7,0,"Tu pénètres dans la salle du trône escorté des gardes. Un homme est assit au bout de l'allée sur un énorme trône en or, très certainement le roi. Il se lève et marche rapidement jusqu’à toi. L'angoisse commence à monter en toi. Que te veut-t-il ? 
+Il pose alors ses mains sur tes épaules et affiche un sourire chaleureux. 
+- Bienvenue mon cher. Pourquoi me regardes-tu de la sorte ? Dit-il alors que tu restes interdit face à son accueil chaleureux.",6.png
+7,8,9,"Cela fait si longtemps que je ne t'ai pas vu. Tu es adulte maintenant ! J'ai été peiné d'apprendre le décès de tes parents, mais saches que tu es toujours un membre important à la cour et dans mon cœur. 
+Je n'attendais pas ta venue aussi tôt. Nous allons avoir à parler d'un sujet important. Mais avant cela, tu sembles perdu. Aurais-tu des questions ?
+[GAUCHE] - Je ne sais pas comment je me suis retrouvé ici. Je n’ai plus de souvenir.  
+[DROITE] - Savez vous qui est ce phœnix, pourquoi m'a-t-il conduit à vous ?",6.png
+8,10,0,"- Ce n’est rien, tu ne t’en souviens certainement pas mais tu as déjà eu de nombreux épisodes de perte de mémoire quand tu étais jeune. Elle va te revenir. En attendant, fies toi à moi. Il faut que nous nous entretenions sur la raison de ta présence ici, le temps nous est compté",6.png
+9,10,0,"- Hum...Et bien, oui, cela m’a surpris en te voyant arriver, il semblerait que tu ais trouvé ton cher phœnix. Si je ne me trompe, tu l’avais perdu il y a de cela 5 ans.
+- Mais ce n’est qu’un oisillon, comment est ce que c’est possible ?
+- Eh bien c’est un phœnix.
+- Et alors ?
+- Les phœnix sont immortels enfin ! Ils renaissent de leurs cendres chaques mois. Malheureusement, cela me rappelle que le temps nous est compté …",6.png
+10,11,12,"Le Roi congédie les personnes présentes dans la salle du trône.
+- Il y a de cela trois jour, ma fille a été enlevée. D’après un message que j'ai reçu, elle doit être prisonnière d'une vil créature. J'ai besoin de quelqu’un de confiance et de débrouillard pour aller la sauver.
+- Si vous me permettez la question: pourquoi moi ? Vous avez des gardes à votre service. 
+- Si la nouvelle de sa disparition venait à se répandre, des personnes mal intentionnées pourraient profiter de l'occasion, dont mon personnel. Je ne peux faire confiance qu'à un nombre restreint de personnes et tu as toute ma confiance.
+Le phœnix te demande alors: - Acceptes-tu de l’aider ? 
+[GAUCHE] Tu acceptes, mais avec scepticisme...
+[DROITE] Tu ne te penses pas apte à cette mission.",6.png
+11,13,0,"Le roi te remercie, il semble soulagé et reconnaissant. Mais dans ses yeux tu remarques le passage d'une lueur de malice ... 
+- Tu es le jeune homme le plus téméraire que je connaisse. Tu ne recules pas devant l'inconnu ou le danger. Cela me rappelle le jour où tu as mis ta vie en danger pour dompter ce cheval qui a faillit tuer son dresseur. Tu n'as pas hésité. 
+J'apprécie énormément la peinture qui en a été faite, que j'ai le plaisir de voir chaque fois que je vais dans la... la... bibliothèque. 
+- Un tableau rien que de toi, quel honneur, se moque le phœnix.",6.png
+12,13,0,"Une rapide expression d’agacement passe sur le visage du roi mais disparaît aussitôt. 
+-  Comment peux-tu penser ne pas être apte. Tu es le jeune homme le plus téméraire que je connaisse. Tu ne recules pas devant l'inconnu ou le danger. Cela me rappelle le jour où tu as mis ta vie en danger pour dompter ce cheval qui a faillit tuer son dresseur. Tu n'as pas hésité. 
+J'apprécie énormément la peinture qui en a été faite, que j'ai le plaisir de voir chaque fois que je vais dans la... la... bibliothèque. 
+- Un tableau rien que de toi, quel honneur, se moque le phœnix.",6.png
+13,15,14,"- Bien, comme je l’ai dit le temps nous est compté mais il te faut tout de même te reposer, tu sembles avoir fait une longue route pour venir jusqu'ici. Je t’ai fait préparer une chambre digne de ton courage.” Il appelle les gardes et ordonne: 'Gardes emmenez notre cher invité jusqu'à sa chambre.
+Une fois arrivé et les gardes partis, le phœnix te demande : - Que souhaites-tu faire ? 
+[GAUCHE] Profiter de cette somptueuse chambre ou
+[DROITE] aller admirer ton tableau.",6.png
+14,16,0,"Tu sors de ta chambre et pars en direction de deux gardes, qui patrouillent, pour leur demander: 
+- Excusez moi ou est la bibliothèque s’il vous plaît ?
+Les gardes sont surpris, ils se regardent et t'indiquent le chemin.",14.png
+15,120,0,"La chambre est imposante, sophistiquée et semble d’un grand confort. Tu prends un long bain reposant dans la grande baignoire.",15.png
+16,17,0,"Tu te rends à la bibliothèque. Lorsque tu arrives, tu ouvres les grandes portes en bois massif, découvres une grande bibliothèque avec des étagères remplies de livres à couvertures ornées. Cette pièce est magnifique mais au mur, aucun tableau, étrange.",bibliotheque.jpg
+17,18,19,"Tu vas ensuite voir un homme à lunette qui ressemble à un bibliothécaire pour le questionner au sujet du tableau. Il te répond: - Je n'ai jamais vu de tableau comme celui-là ici et je pense qu'il n’y en a jamais eu. 
+Tu lui répète les paroles du roi. Le bibliothécaire écarquille les yeux et semble paniqué par cette information. Il répond rapidement et en balbutiant : 
+- Je... j'ai… du me tromper... 
+Et soudain le souvenir du tableau lui revient.
+- Il a été déplacé dans une autre bibliothèque.
+Il prend congé avant que tu n'ais pu lui demander autre chose. Tu murmures : - Mmhhh...Étrange...
+[GAUCHE] Tu repars dans ta chambre 
+[DROITE] Tu restes pour éplucher les registres de naissance",bibliothequeEtHomme.png
+18,20,0,"En sortant de la bibliothèque tu entends la conversation de deux gardes en ronde: 
+- Pourquoi est-il venu dans la bibliothèque à ton avis ?
+- Je n’en sait rien, c’est certainement en rapport avec l’histoire que lui a raconté le roi
+- Gérald m’a dit qu’il avait réussi à entendre des bribes de leur conversation. Il lui aurait dit qu’il devait sauver sa fille !
+- Sa fille ? Mais il n’en a pas
+- Oui ! Mais le garçon semblait tellement convaincu quand il est sorti, si tu avais pu voir sa tête. On aurait dit qu’il devait sauver le monde !
+Les deux gardes se mettent à rire discrètement et poursuivent leur ronde. Le roi a menti, pourquoi ? Cette quête à quoi sert-elle alors ? 
+Tu décides de retourner dans ta chambre car la nuit est sur le point de tomber.",14.png
+19,20,0,"Tu tires les registres de son initiale. Tu cherches son nom dans les pages. Tu arrives à la fin des registres mais toujours pas son nom.. Tu es pourtant d’une famille noble, ta naissance dois avoir été répertorié. Tu regardes dans les autres registres avec l’initiale de son nom de famille, toujours rien. Il ne semble y avoir aucune trace de toi. On dirait que tout le monde ment sur ton existence: le tableau qui revient miraculeusement à l’esprit du bibliothécaire lorsqu’il a mentionné le roi, l’absence de son nom dans ces registres. Tout cela est très étrange. Tu décides de retourner dans sa chambre car la nuit est sur le point de tomber. ",21.jpeg
+20,21,0,"Tu traverses plusieurs couloirs mais au bout d'un moment tu ne reconnais plus où tu es. Tu ne veux pas demander au personnel, tu ne peux faire confiance à personne et il risque de comprendre que tu n'es pas un noble. Alors que tu arrives dans un cul-de-sac, tu entends des gardes, arriver. La seule sortie est un escalier sur ta droite.",22.jpeg
+21,22,0,"Tu le prends et arrive dans un autre couloir avec une seule porte. Une mélodie parvient de derrière celle-ci. Une mélodie qui te semble familière mais étrange. Intrigué, tu te diriges vers la porte, l’ouvres et rentres.",23.jpg
+22,23,24,"Un homme est couché sur un lit, un livre entre les mains, il te dévisage alors que tu es sur le point de ressortir  en t'excusant. Soudain tu re entends les gardes qui descendent l'escalier. L'homme comprend alors rapidement la situation et t'indique :
+'Vite cache toi sous ce lit'. Tu remarque aussi un canapé assez épais pour s'y cacher. 
+[GAUCHE] Tu te cache sous le lit 
+[DROITE]Tu te places derrière la porte",chambredenemes.jpeg
+23,25,0,"Les gardes entrent au moment où tu te glisses sous le lit. Un des gardes se met à marcher dans la chambre, l’autre reste immobile. L'homme leur dit:
+ “Vous espérez trouver quoi aujourd’hui, un reste de mon déjeuner ? On non, vous voulez me retirer ce livre que j’ai récupéré ?”
+'Tais toi.' réplique le garde immobile.
+Alors qu’ils vont partir, celui qui marchait dans la chambre se rapproche de toi.
+“Qu’est ce que ..?”
+Il regarde sous le lit et te voit. L’homme attrape alors son draps et l'enroule autour de la tête du garde proche de lui. Celui qui t'a découvert se retourne pour voir ce qu’il se passe et tente d'aller d’aider son camarade. Cela te laisse le temps de retirer une pierre du mur et de frapper le garde à la tête.",chambredenemes.jpeg
+24,25,0, Tu te places derrière la porte. Lorsque les gardes entrent dans la chambre tu frappes le plus proche à la tête. L’homme attrape alors son drap et l'enroule autour de la tête de l’autre garde.,chambredenemes+nemes.png
+25,26,0,"Les deux gardes sont à terre.
+“J’ai tué un homme...” ta voix est étranglé par la culpabilité.
+ “Non, je ne pense pas, ils sont tous les deux inconscients' répond l'homme.
+Tu ressens un profond soulagement. “Mais qui es-tu au juste ?” demandes-tu en faisant face à cet inconnu qui t'a aidé.
+“ Je m’appelle Nemes, enchantée. Et toi, si je ne me trompe pas, tu es finalement arrivé. Ils avaient peur que tu choisisses une destination plus ... boisée.”
+“Je ne comprend pas, nous nous connaissons ? Vous êtes aussi d’une noble famille ?”",chambredenemes+nemes.png
+26,27,0,"“Quoi ? Non.' s'étonne-t-il. 'C'est cela qu’ils t’ont raconté ? Pourquoi crois-tu être ici au juste ?”
+“Honnêtement je ne sais plus. Rien n’est cohérent. Je suis censée sauver la fille du roi mais j'ai l'impression que tout ce qu'on m'a dit n'est qu'un tissu de mensonge. Je ne sais ni comment je suis arrivé ici, ni ce que je suis censé faire ..”
+“Ne t'inquiètes pas, je te comprends, j’ai été à ta place.”
+“Comment ?”
+“Je vais essayer de faire court, mais ça va te sembler dingue je pense”",chambredenemes+nemes.png
+27,28,29,"'Ce monde, ces gens, on n'y appartient pas. Enfaite on ne viens d'un autre monde. Je sais, ça a l'air d'être n'importe quoi.
+D'abord il faut que tu saches qu'il existe plusieurs 'réalités'. Elles se présentent toutes de manière différente. On peut y entrer grâce à des 'ponts' qui sont extrêmement bien cachés, voire inaccessibles. Je ne sais pas comment on est entré dans celle-là, mais je sais presque comment en sortir. Ce monde fonctionne avec des 'quêtes' et chaque actions peut nous mener sur des chemins différents. Tu ne te rappelles certainement pas ce que c'est mais on peut comparer tout ça a un jeux vidéo.'
+Tu ne savais pas ce qu'était un 'jeux-vidéo', en effet.
+'Je suis coincé moi aussi, mais depuis bien plus longtemps que toi, j'ai eu le temps de comprendre ce monde et j'ai très envie d'en sortir.’
+[GAUCHE] Tu le crois 
+[DROITE] 'Pourquoi tu ne te rappelles de rien ?'",chambredenemes+nemes.png
+28,30,0,"'C'est complètement dingue. Mais pourtant j’y crois. Nous devons donc trouver le 'pont' pour rejoindre notre monde?'
+Après une brève hésitation Nemes acquiesça.
+'Mais pourquoi le roi m'a raconté tout ça ?'
+'Il veut aller dans notre monde. En fait je ne suis pas le premier à être arrivé ici et tu ne seras pas le dernier. Le roi est fasciné par notre monde et veut a tout prix y entrer'
+'En quoi cela est-il mal ?'
+'Nous avons eu de la chance que de notre monde à celui là le passage ai été sans impacte mais dans l'autre sens on ne sait ce que ça pourrait engendrer. Il pourrait arriver dans notre monde avec un corps totalement différent, voire 'caser' notre monde. Bref, ce n'est pas du tout négociable, il ne doit jamais franchir ce 'pont''",chambredenemes+nemes.png
+29,30,0,"Comment se fait-il que je ne me rappelle de rien ?” “ ça jsp mais les souvenirs vont te revenir. Les miens sont revenus après quelques semaines” 'Quelques semaines ?? Je n’ai pas l’intention de rester aussi longtemps !” “Tu ne vas pas vmt avoir le choix, pour sortir, il faut faire plusieurs “quêtes” et ça peut prendre plusieurs semaines. Dis toi que tu ne vas pas sortir avant un mois au moins.” Perso choqué et dépité mais doivent sortir.",chambredenemes+nemes.png
+30,32,31,"La nuit est tombée. Il vous faut maintenant vous enfuir. Tu proposes : 
+[GAUCHE] mettre les vêtements des gardes 
+[DROITE] se faire passer pour des servants",gardeouservant.png
+31,32,0,"Nemes est surprit par la proposition. 
+- Tu veux voler leurs vêtements à des servants ? Autant prendre ceux des gardes qui sont là !?
+Il est vrai que sa proposition est plus intelligente",chambredenemes+nemes.png
+32,33,0,Vous enfiler les vêtements des gardes pour sortir sans être repéré. Vous remontez l’escalier et faites une ronde jusqu'à ta chambre  pour y récupérer ton Phoenix.,22.jpeg
+33,34,0,"Ensuite, vous vous dirigez vers les cuisines pour voler à manger. Là vous rencontrez Clada, une servante avec qui Nemes est ami. Après que Nemes lui ai expliqué la situation, elle vous indique une porte étroite pour sortir.",35.png
+34,35,36,"Mais quand vous la franchissez, des sentinelles vous voient et demandent : 'Qu'allez vous faire avec cette servante?'. Nemes répond: 'On a une affaire à régler.' Les sentinelles vous regardent tout les deux avec un air malicieux. Vous partez avec la servante jusqu’au bois puis Nemes lui dit au revoir qui rentre au château par un autre chemin. 
+[GAUCHE] Demander à Nemes comment il connaît Clada
+[DROITE] Partir au plus vite",boisnuitnemes+cladia.png
+35,36,0,"'Quand j'ai été fait prisonnier par le roi, c'est elle qui était chargé de m'apporter mes repas. On a commencé a sympathiser quand elle a réalisé que je n'était pas un 'dangereux criminel'. C'est elle qui m'apportait de quoi passer le temps, comme des livres.
+Elle va me manquer quand je serais sorti.'
+Sa tristesse est audible dans sa voix. Grace a elle vous avez pu sortir du château. Elle va te manquer aussi.",none
+36,37,0,"- Maintenant qu'on est sortis, où est ce 'pont' ?
+- Pour arriver au pont il faut accomplir des 'quêtes', je te l'ai dit. On doit d'abord trouver une clé.
+- Pourquoi une clé ?
+- Tu verras. Je sais où elle est, suit moi.",52.png
+37,38,0,"Après plusieurs jours de marche, vous arrivez à l’entrée d’une grotte. Nemes te dit : 'Restes dehors et attends pendant que je vais la récupérer.'
+Il s’enfonce dans les profondeurs de la grotte. Tu es seul et t’installe sous un arbre pour te reposer. Tes pieds te font mal à force de marcher.",piedarbre.jpg
+38,39,0,"Tu vois alors un petit enfant, seul, qui te regarde. L’enfant approche et tu réalises que ça peau scintille, comme faites de minuscules  pierres précieuses. Tu lui demandes 'Tu es perdu petit?'
+L'enfant te répond que non, il est avec des amis mais ils ne font que répéter une comptine qu’il n’aime pas. Il t'explique qu'elle parle d'un homme qui est perdu dans l'inconnu. Il ne fait que se filler à des menteurs ce qui l'empêche d'avancer. La comptine se finie par
+“Une clé, une porte. Ils veulent tous s'échapper, mais comment y arriver ? Une seule clé, une seule porte.”",piedarbreenfant.jpg.png
+39,40,0,"'Cet homme c'est toi' te dis le phœnix avant de s'envoler pour se poser sur une haute branche.
+Qu'est ce que ça veut dire ? Une seule personne peut franchir le pont ? Nemes et toi ne pouvez pas tout les deux sortir alors ! Mais il a dit qu'il savait comment fonctionnait ces 'ponts'. Il t'aurait caché cette info pour pouvoir s’échapper seul et te laisser dans ce monde !",piedarbre.jpg
+40,41,42,"Nemes revient avec une énorme clé en métal à la main et un grand sourire aux lèvres. Mais sourire disparaît quand voit la colère dans tes yeux. Dire: 
+[GAUCHE] 'Tu n'avais pas l'intention de me dire que seul un de nous deux pouvait sortir !'
+[DROITE] Demander subtilement 'Comment est ce qu'ils fonctionnent ces 'ponts' ?'",piedarbre.jpg
+41,43,50,"'Je suis coincé depuis plusieurs années et je ne pense qu'a sortir depuis le début, alors c'est peut être vrai qu'un seul peut sortir mais si il le faut c'est chacun pour soi! '
+Tu es choqué par la colère qui émane de sa voix. 
+[GAUCHE] Vous vous séparez, tu te débrouilleras mieux seul ! 
+[DROITE] Tu ne tiens pas compte de sa colère et décide de passer outre. Tu veux rester avec lui",none
+42,51,0,"'Je ne sais pas exactement, je n'ai qu'une approche théorique de ces réalités. Je ne l'ai malheureusement jamais traversé dans l'autre sens. Cependant je redoute la sortie, j'espère que tout va se passer pour le mieux.' Puis il ajoute avec tristesse : 'Pour être tout à fait honnête, j'ai peur qu'un seul de nous deux ne puisse sortir. L'un de nous pourrait finir coincé.'
+Ton phœnix s'écrit alors que ce monde est peuplé de magie, vous pouvez toujours trouver un moyen. Il te vint alors l'idée que il y a certainement des objets magiques que vous pourriez utiliser. Tu en fais part à ton compagnon qui répond connaitre quelqu'un qui s'y connait en magie.
+",none
+43,44,0,"Le Nemes part de son côté à la recherche de la porte, te laissant derrière lui.
+--> La course contre la montre commence (Le premier des 2 persos qui atteindra la porte le premier pourra sortir de ce monde)",none
+44,45,0,"Mais après une heure, tu dois te rendre à l'évidence. Tu es perdu. 
+[GAUCHE] Tu veux retourner au château
+[DROITE] Tu veux chercher de l'aide de n'importe qui",none
+45,46,0,"Sur son chemin, tu rencontres un vieillard qui tu regarde avec insistance ",184.png
+46,47,0,"-Bonjour, jeune homme tu cherches pas du travail par hasard ?' 
+-Bonjour, non pas particulièrement je cherche surtout à moyen de m'évader d'ici, vous comprenez...' 
+-Oh mon enfant, vient avec moi nous allons trouver une solution ensemble' Tu te fais emporter par le vieillard et te retrouves dans la maison de celui-ci. ",none
+47,48,0,"Une fois arrivée, le vieillard change complètement de comportement ce qui commence à t'angoisser. -Bon mon gars, je t'ai menti tu n'auras pas besoin de trouver comment sortir car tu es en ma possession maintenant. Je te nomme mon esclave cela te permettra d'oublier tes soucis miteux là.' 
+[GAUCHE] 'Vous vous foutez de moi, votre idée est aberrante, vous êtes fou ! Laissez-moi partir, j'ai une urgente mission à faire...' 
+[DROITE] 'Oh je suis tellement désespéré par les évènements que faites comme ça vous chante...' ",none
+48,49,0,"Tu te retrouves coincé dans cette maison pour le reste de tes jours, aux services d'un homme complètement malade. Tu te demandes si Nemes est arrivé à sortir…",50.jpg
+49,0,0,Histoire le prisonnier sort et le joueur est esclave ,fintragique.jpg
+50,51,0,"Après un instant à vous regarder dans le blanc des yeux, vous vous pardonnez. Il vaut mieux continuer l'aventure ensemble. Nemes possède des informations qui pourraient t'être précieuses. Il dit : 'Crois moi j'avais l’intention de t'en parler, je n’étais pas sûr que ce soit vrai.'  Vous devez trouver un moyen de sortir ensemble. Nemes propose : 'Allons chez une sorcière pour trouver des infos.'",52.png
+51,52,0,Vous partez chez une certaine sorcière mais lorsque vous arrivez elle n’est pas là. Vous cherchez dans ses grimoires et en trouvez un comportant une page avec comme intitulé 'liaisons et sorts d'union'.,5.jpg
+52,53,0,"Mais la page est déchirée sur la moitié, tout ce que vous parvenez à lire c'est : “anneaux” “union” et “incantation”.
+Le phœnix s'écrit alors: 'Il existe plusieurs exemplaires de ce livre, heureusement pour vous !'
+Il vous faut chercher un autre livre ou demander à quelqu'un qui pourrait connaître ce genre d'anneaux.",21.jpeg
+53,54,0,"Nemes propose aussi de prendre quelques potions qui pourraient vous être utiles. Mais l'écriture est en symboles, vous ne la comprenez pas. Il faut en prendre au hasard. 
+[GAUCHE] Tu prends les potions orangé et brune 
+[DROITE] Tu prends les potions verte et bleue",55.png
+54,57,58,"Vous êtes toujours habillés en gardes lorsque vous entrez dans le village le plus proche du marais. Il faut partir à la recherche d'information sur ces anneaux. 
+[GAUCHE] Aller à la bibliothèque 
+[DROITE] Aller chez un artisan",villagemarais.jpeg
+55,57,0," Vous trouvez une bibliothèque et demandez à la bibliothécaire si elle a des livres de sortilège, sur missive du roi. La bibliothécaire vous regarde étrangement, avec un certaine dose de mépris. Elle finie par vous indiquer de la suivre.",bibliothèque+bibliothècaire.png
+56,55,58,"Vous décidez d'aller chez un forgeron. Il doit bien fabriquer des bagues non? L'homme que vous rencontrez vous regarde avec mépris. Tu lui demande s'il connait des anneaux magiques, permettant de lier deux personnes. Il te répond des anneaux de mariage. Tu précise une liaison au sens littéral, pas conjugal. Il te répond qu’il n’y connait rien en objets magiques mais que l'antiquaire a peut-être entendu parler de ces anneaux.
+Vous vous rendez alors chez l’antiquaire et reposez la question. Il semble effrayé et répond qu’il ne sait pas. 
+[GAUCHE] Aller à la bibliothèque 
+[DROITE] Révéler que vous n'êtes pas des gardes",forgeron.jpeg
+57,59,0,"Elle vous emmène dans la réserve et vous montre les trois livres de sortilège qu’elle possède. Nemes trouve le même que celui chez la sorcière. 
+Il existe deux anneaux forgés il y a longtemps pas les elfes et qui ont le pouvoir de lier deux personnes. Tant qu'ils sont portés, les deux individus ne forment plus qu’Un: leurs pas, leur souffle, leurs pensées fusionnent. 
+Il est nécessaire de réciter une courte phrase en elfique pour les activer. Attention: Il faut que les deux persos soient en accord sur leur intentions. Vous recopiez le sortilège sur une feuille.",bibliothèque+bibliothècaire.png
+58,59,0,"Tu révèle au vieil homme que vous avez volé ces vêtements à des gardes qui vous retenaient prisonniers. L’antiquaire semble alors moins craintif et accepte de vous dire ce qu’il sait sur les anneaux de Harmo-Loden : 'Ils ont été forgés par les elfes il y a très longtemps pour lier deux elfes lors d’une quête sacrée pour leur peuple, mais toujours inconnue aujourd’hui. Ces deux anneaux lient en tout point les deux porteurs mais il faut un sortilège pour les activer que je ne connaît pas. Sinon ils ne sont que de simples bijoux, qui n’en restent pas moins précieux.' Vous le remerciez et quittez le magasin.",forgeron.jpeg
+59,60,0,Il vous faut alors aller chez les elfes. Nemes t'explique que cela tombe à point car la vraie clé devait être forgée par les elfes.,La-foret-enchantée.png
+60,61,0,"Vous partez en direction du Nord, Nemes sait où sont les elfes. Vous marchez pendant 5 jours, traversez plaines, forêts et montagnes. Entre temps vous avez échangé vos tenus de gardes contre des vêtements normaux, pour ne plus éveiller l’attention.",La-foret-enchantée.png
+61,62,0,"Vous arrivez enfin sur les Terres des Elfes, qui ne font pas partie du Royaume du Roi. Elfes vivent dans de grandes forêts. Deux elfes viennent à votre rencontre et tu leurs explique votre situation. L'une demande : 'Vous avez de quoi payer?'. Heureusement, vous avez récupéré de l'argent grâce aux vêtements de garde que vous avez revendu.
+Pour faire forger la clé, tu leur donne tout.",zoomvillagedeselfes.jpeg
+62,63,0,"Vous rencontrez un maître forgeron-elfe. Après examinassions de la clé, il dit : 'Il est possible de créer une clé avec ce modèle mais il me faut une plume de phœnix.'",elfe.png
+63,64,0,"Tu te tournes vers son compagnons plumé pour lui demander son accord. Il t'en offre une. Le forgeron vous annonce que la création de la clé prend une semaine... 'Suivez moi, je vais vous conduire à votre chambre' dit l'une des elfe tandis qu'elle se dirige vers la forêt.",elfe.png
+64,65,0,Tu lui pose des questions au sujet des anneaux. Elle te répond : 'Nous ne les avons plus. Ils ont été volés lors d’une bataille opposant Elfes contre le  Royaume.' Ainsi c’est le roi qui doit être en possession des anneaux. Vous devez retourner au château et les retrouver.,192.png
+65,66,0,"'ça va être très simple, j'ai tout noté sur ce plan. Lis le et tiens-toi prêt, nous partons demain' t'annonce Nemes en te tendant une feuille sur laquelle il à noté tout son plan 
+(regarde l'image pour comprendre le plan)",67.jpg
+66,67,68,"Vous êtes sur la route en direction du château. 'Bien, mettons nous d'accord sur notre rôle dans mon plan. Que veux tu faire ?' 
+[GAUCHE] Le rôle du troubadour 
+[DROITE] Le rôle du serviteur",cheminpourallerchateau.jpeg
+67,69,0,"Ton rôle est de distraire le Roi en tant que troubadour.
+Nemes te dit : 'Ce costume vient d'une famille connu de troubadour qui vient de deux prairies. Mets là. Présente toi devant les gardes avec ton contrat et c'est parti !'
+",none
+68,70,0,"Ton rôle est d'aller chercher les anneaux dans la chambre du roi. Tu es déguisé en serviteur
+Nemes te dis: 'le Roi tient à ces bijoux comme la prunelle de ses yeux.'",none
+69,71,0,"Tu optes pour une distraction musicale car sais jouer de la guitare et chanter. Tu te munis de ton faux contrat, subtilisé à un autre troubadour et pars en direction du château.",none
+70,72,0,"Tu attends que Nemes dans le rôle du troubadour, se soit présenté devant les gardes. Tu te présentes à ton tour avec ton contrat de travail, tu apportes des tonneaux de vin pour le repas du roi.",none
+71,74,0,"Tu passes devant les gardes qui vérifient tes papier, puis entres dans la salle. Ton déguisement avec toutes ces couleurs te permet de ne pas être reconnu. Les gardes devant la salle s’exclament : 'Allez entrez donc vite le Roi vous attend'",92.png
+72,73,0,"Tu transportes tes 3 tonneaux dans la cours du château et avec d'autres serviteur, vous les déchargez jusque dans la cuisine. Tu récuperes alors un plat et suit les autres serviteurs pour apporter le repas dans la salle à manger.",35.png
+73,75,0,"Tu entres dans la salle à manger. Personne ne fait attention à toi, ils regardent plus ce que tu as entre les mains que ton visage. Ce rôle est parfait pour ne pas attirer l'attention. En plus la coiffe et ton costume dissimulent parfaitement ton identité.",salleàmangerchateau.jpg
+74,76,0,"Le roi qui affiche un air très mécontent et exige une chanson. Tandis qu'ils mangent, tu te promènes dans la pièce en jouant une mélodie calme. Quand tu aperçois ton complice, tu attires l'attention du roi en faisant mine de sortir un objet de ta poche. Cela amène les gardes à se jeter sur toi. Parfait. Toute l'attention est sur toi, Nemes peut s'infiltrer dans les appartement du roi en toute discrétion. Une fois qu'il a disparu, tu révèles un objet inoffensif. Le roi te dévisage cependant avec insistance…",salleàmangerchateau.jpg
+75,77,0,"Tu repères Nemes qui te lance un regard discret. Il est prêt. Il se rapproche du roi. Tu te rapproche de la porte dissimulée derrière la commode. Soudain toute l'attention est tournée vers Nemes, les gardes se précipitent sur lui. Tu en profites pour te faufiler dans le passage.",salleàmangerchateau.jpg
+76,78,0,Tu poursuis ta mélodie. Tu dois continuer de distraire la cour.,salleàmangerchateau.jpg
+77,79,80,"Tu longes le couloir et arrives devant la porte de la chambre du roi. Tu utilise la clé que Clada t'a donné.
+Tu entres dans la chambre et te retrouve nez à nez avec une servante. Ça n'était pas prévu ! Elle risque d'alerter les gardes.
+Elle s'exclame: 'Que fais-tu là toi ?' 
+[GAUCHE] 'Qu'est ce que toi tu fais là ?' 
+[DROITE] 'Je suis ici sur la demande du roi'",24.jpg
+78,81,82,"Alors que tu as fini une chanson et commences à manquer de répertoire, une femme t'interroge : 'Jeune troubadour, dîtes moi, d'où venez vous et d'où viens votre musique ? Elle est très mélodieuse' 
+Que t'avait dis Nemes ?
+[GAUCHE] Grande Prairie 
+[DROITE] Deux Prairies",salleàmangerchateau.jpg
+79,86,0,"Je ne suis pas sensé être là mais toi non plus. Cet aile du château est interdite aux domestiques.
+Elle affronte ton regard pendant un instant puis se résigne. 'Oui, je n'ai aucun droit d'être là, mais le roi m'a volé un objet auquel je tiens particulièrement. Je suis venue le récupérer. Et toi que fais-tu là ?'
+'Disons que pour moi aussi le roi détient un objet auquel je tiens.'
+'Alors occupons nous chacun de nos affaires et faisons comme si nous ne nous étions jamais rencontré.'
+'Très bien.'",none
+80,85,0,"'Le roi m'a envoyer chercher
+un bijoux dont il souhaite faire cadeau à l'un des nobles' 
+Elle te répond : 'Le roi n'offre jamais rien à personne, il ne fais que prendre tout à tout le monde, seulement pour montrer sa domination. Et toi tu ne vas jamais avoir la chance de le voir'",none
+81,83,0,"'De Grande Prairies Madame'. 
+La cours te dévisage. Ce n'était, de toute évidence pas la contrée dont Nemes t'a parlé. Le roi te regarde avec insistance et un sourire sinistre étire ses lèvres.",none
+82,84,0,"'De Deux Prairies Madame'. 
+Toute la cours confirme. Tu ne t'es pas trompé, c'est bien ce que Nemes t'a dit. Le roi qui te fixait jusque là relâche son regard. Il t'avait presque démasqué",none
+83,87,0,"'Eh bien. Eh bien, il me semblais bien t'avoir reconnu mon cher ami.' Il ordonne a ses gardes de te retirer ton chapeau ainsi que ce qui cache ton visage.
+'Tu m'a fossé compagnie mon cher, et tu as laissé ce criminel s'échapper' Il parlait de Nemes. Il ordonne que l'on te fouille et ils trouvent la clé. 'Tu as voulu faire cavalier seul ? Je ne pense pas, Nemes dit être avec toi. Gardes empêchez toute personne de sortir, les servants aussi. Et conduisez cet imposteur au cachot.",none
+84,88,0,"Tu entres dans la salle à manger. Personne ne fait attention à toi, ils regardent plus ce que tu as entre les mains que ton visage. Ce rôle est parfait pour ne pas attirer l'attention. En plus la coiffe et ton costume dissimulent parfaitement ton identité.",salleàmangerchateau.jpg
+85,0,0,"Elle révèle soudain une dague qu'elle cachait dans sa jupe, franchit la distance qui vous sépare et te poignarde. Tu t'effondres sur le sol te vidant de ton sang. Ta dernière pensée est pour Nemes. (Tu es mort. On retrouve ta dépouille dans la chambre du roi et tu es envoyé au buché)",none
+86,89,0,"Elle repart avec l'objet qu'elle cache soigneusement.
+Tu ouvres la coffret au bijoux et fouilles parmi tous les colliers, toutes les bagues et pierres précieuses qu'il contient. Tu trouves finalement les deux anneaux et les mets dans ta poche.",fintragique.jpg
+87,90,0,"Te voilà enfermé dans un cachot avec Nemes. Il ne dit pas un mot et semble en colère. Après tout c'est à cause de toi si vous vous êtes fait prendre. Le seul à avoir pu s'échapper est ton phœnix, mais tu sais que ce ne seras pas ton cas. Tu vas rester là pour un bon moment…",cachot roi.jpg
+88,91,0,"Les gardes te font sortir et te jettent dehors avec peu de délicatesse. Te voilà hors du château.
+Tu marches jusqu'à une auberge, où tu dois retrouver Nemes. Il arrives une dizaine de minutes après toi.",auberge.jpeg
+89,92,0,"A part cet accro, tout se déroule comme prévu. Tu arrives au niveau de la porte qui donne sur la salle à manger. Tu entends Nemes chanter à haute voix accompagné d'une luth (=instrument qui ressemble à une guitare). Tu attends son signal. Il se met soudain à acclamé 'Et maintenant, une chanson de ma composition' il se met alors à chanter horriblement faux. Tu sors alors et te replaces dans la foule des serviteurs. Personne ne t'a vu, ils dévisagent tous Nemes en faisant des grimaces. Alors que tu te diriges vers les cuisine tu entends le roi ordonner aux gardes de faire sortir Nemes. Tu souris, tout s'est passé comme prévu.",salleàmangerchateau.jpg
+90,0,0,fin le joueur est enfermé par le Roi en prison,fintragique.jpg
+91,96,0,Tu lui explique que tu as failli te faire prendre. Il te félicite pour ta performance et vous riez tout les deux. Il te montre finalement les anneaux qu'il a récupéré.,none
+92,93,94,"Tu retournes aux cuisines, récupères ton manteau et te dirige vers la sortie. Tu dois faire mine de retourner chercher du vin car il n'y en a plus assez.
+Lorsque tu arrives devant les gardes, ils refusent de te laisser sortir. 
+[GAUCHE] Tu tentes de les corrompre 
+[DROITE] Tu les menaces implicitement",92.png
+93,96,0,"Tu leur fait l'offre d'une des bonnes bouteilles de vin (une bonne cuvée) commandées par le roi. Les gardes se regardent et acquissent, tout le monde est corrompu dans ce château ou quoi ?! Tu repars et sors du château. Tu te diriges vers l'auberge où Nemes t'attend. Tu lui dis que tu as failli te faire prendre 2 fois.",auberge.jpeg
+94,95,0,"'Messieurs, je dois retourner chercher des bouteilles de vin sur demande du roi. Si personne ne vient les lui apporter, il va chercher les responsables et c'est sur vous que ça va retomber si vous me retenez'
+'C'est beau, il nous menace en rimes. Cependant, on est pas si bête que ça.'
+'Outrage à garde, ça mérite une arrestation non ?'
+'Parce que vous avez un code civil ici ?'
+'Le code et la loi, c'est nous qui la faisons mon gars. Maintenant tu vas venir avec nous.'
+Les gardes t’emmènent malgré tes protestations. Ils te font traverser les couloirs et te jettent en prison avant de te frapper, pendant longtemps'",92.png
+95,0,0,fin le joueur est enfermé par les gardes en prison,fintragique.jpg
+96,97,0,"Vous avez les anneaux et la clé, il ne vous reste qu'a trouver la porte ! Cependant, Nemes te dit : 'Je ne sais plus quoi faire.' Il n'est pas allé plus loin dans l'histoire. Il sait seulement que vous devez aller vers le Sud. Ce qui est une information peu précise..",none
+97,98,0,"Vous partez donc avec la clé, et les anneaux ainsi qu'avec l'incantation et les potions. Arrivant devant une grande forêt, vous ne voyez rien d’autre que de grands arbres. Vous décidez de vous aventurer à l'intérieur. Soudain tu te sens comme attiré par une force invisible, tu sais où aller. Nemes te suit.",entreearbre.jpeg
+98,99,0,"Vous arrivez devant un grand arbre. Un cerf de lumière apparaît alors derrière l’arbre et vient à votre rencontre. Il est tellement majestueux et fière. Vous le suivez lorsqu’il repart dans les profondeurs de la forêt. Le bois est de plus en plus dense, les rayons de lumière ne passent bientôt plus et seul le cerf éclaire votre chemin.Vous arrivez alors devant une faille qui traverse la montagne. Le cerf s’arrête et repart en galopant.Vous vous engouffrez dans la faille.",0.jpeg
+99,100,0,"A mesure que vous vous enfoncez dans la faille, tu aperçois une lueur grandissante. La lumière se fait plus intense et chaleureuse. Vous aboutissez alors devant une porte. Elle semble inappropriée en plein milieu d'une faille, taillée en bois massif et avec des sculpture minutieuses. Nemes se rapproche pour tourner la poignée alors que tu sors la clé de ta poche. Une inscription apparait dans le bois. La langue vous est inconnue, mais tu comprends que la clé correspond à cette porte. Tu la places alors dans la serrure. Alors que tu t'apprêtes à tourner la poignée, ton phœnix émet un cri.",entreearbre.jpeg
+100,101,0,"'Que lui arrive-t-il' te demande Nemes.
+'Une seule clé, une seule porte' dit l'oiseau.
+'Qu'a-t-il dit ?' redemande Nemes.
+'Je pense que c'est le moment d'utiliser les anneaux, avant de franchir la porte.'",entreearbre.jpeg
+101,102,0,"Vous enfilez chacun un anneau, et récitez l'incantation que vous aviez préalablement recopié sur un bout de papier.
+'Medareno sometswar, medareno nunc tenemur usque ad dissociationem!'
+Les anneaux émettent une lueur orangé puis redeviennent normaux.
+Vous n'avez pas l'impression que quelque chose ai changé.",entreearbre.jpeg
+102,103,0,"'Tout ça pour ça' dit Nemes
+'On a peut-être mal prononcé l'incantation' réponds-tu.
+Nemes te dévisage alors. 'Tu as entendus que que j'ai pensé ?' Tu restes sous le choc un instant. 'On peut communiquer par la pensée ??' penses-tu.
+'De toute évidence oui puisque je t'entend comme si tu parlais à voix haute' répond Nemes.
+L'incantation a bien fonctionné, vous êtes liés à présent. Vous décider qu'il est temps de quitter se monde. Tu attrapes la poignée et pousse la porte.",entreearbre.jpeg
+103,104,0,"La porte s'ouvre lentement sur un couloir. Vous le traversez pour arriver dans une grande cavité. Mais à peine venez vous de voir le portail de l'autre coté de la grotte qu'un grognement vous fait sursauter. Une masse énorme sort alors des ténèbres sur votre droite. Un géant avec une carrure imposante et une massue à la main vous fixe d'un air sauvage.",porteizug.jpeg
+104,105,106,"Dans un premier temps vous êtes tétanisés, vous n'aviez pas du tout prévu ça. Vous n'avez aucune arme. Vous allez avoir besoin de ruser. 
+[GAUCHE] Tu suis son idée 
+[DROITE] Tu veux tenter autre chose",none
+105,106,107,"Nemes s'avance avec confiance devant le monstre et dit : 'Bonjour mon ami, que fait tu ici ?' Le monstre surpris répond: 'Je.. je suis ici pour protéger la porte !' 
+'Bien, mais contre quoi la protèges tu mon ami ?' 
+'Contre... des ... Eu... Je.. Je ne sais pas vraiment' 
+'Tu protèges une porte sans raison ?' 
+'Il semblerait que oui... Pourquoi m'appelles-tu l''ami' ?' 
+'Car je ne connait pas ton nom mon cher. Nous ne nous sommes pas présentés. Je suis Nemes, humble roturier, et voici mon compagnon de voyage.' dit il et tendant la main dans ta direction. 'Je suis Izug l'ogre, de la porte' 
+'Quel beau nom tu as là Izug-L'ogre De Laporte'. 'Aide moi à le mettre en confiance' ajoute Nemes par la pensée, à ton intention.  
+Quel genre de compliment fait-on à un ogre ?? 
+[GAUCHE] flatter sa carrure 
+[DROITE] 'Vivez vous seul ici ?'",104.png
+106,108,109,"Tu te rappelles que dans votre sac vous avez les potions prises chez la sorcière. Lesquelles choisis-tu ? 
+[GAUCHE] La orangée et la brune 
+[DROITE] La verte et la bleue ",106.jpg
+107,111,0,"'Quel taille vous faites Izug, vous pourriez soulever des montagnes à vous seul' 
+'J'ai fait cela pendant un temps, mais ce temps est révolu…'",104.png
+108,111,0,"'Oui. Le gens ne m'apprécient pas beaucoup car je leur fait peur' 
+'Vous ne connaissez personne qui vous... ressemble ?'",104.png
+109,112,0,Nemes te dis de prendre la orangée. Ce que tu fais. ,none
+110,113,0,Nemes décide de prendre la bleue ,none
+111,114,0,"- Autrefois les ogres étaient respectés et craints. Mais lorsque les Hommes ont commencé à fabriquer des armes et à s'enorgueillir, il se sont mis à nous traquer et nous décimer. Il ne reste pas plus d'une poignée d'ogre et je ne sais pas où ils sont.",104.png
+112,116,0,"Tu te sens gagner en force. Quand le monstre te fonce dessus et te projettes contre une parois, tu ne ressens moins de douleur que ce que tu aurais dû. Tu parviens à soulever un bloc de pierre à main nues ! Cette potion est incroyable ! Tu jettes la pierre sur le monstre qui se la prend en plein fouet. Nemes te regarde de loin, il est sur le point de boire aussi une potion mais le monstre ne se relève pas, il repose le flacon sans avoir bu le liquide brun.",104.png
+113,116,0,"Tu le vois boire la potion, mais rien ne se passer. Puis le monde autour de toi commence à ralentir. Les mouvements du monstre sont au ralentis mais Nemes se meut normalement. Tu comprends que, grâce à votre lien, la potion vous a fait tout les deux gagner en vitesse.
+Les mouvements de géant sont tellement lents qu'ils vous laissent pleinement le temps de traverser la cavité et de franchir le portail.",104.png
+114,115,0,"- Ne souhaitez vous pas partager de nouveau la vie de vos semblables ? Les Hommes ne sont plus aussi féroces qu'autrefois. Ils vivent maintenant dans le respect des autres créatures magiques.
+- Vous pouvez quitter cet antre et vivre pour vous Izug
+- Vraiment, ne chercher vous pas a me tendre un piège ?
+- Nous n'avons aucune autres intentions que quitter ce monde et maintenant de vous libérer. Sortez Izug, retrouvez les vôtres !!",none
+115,116,0,"Izug ne perd pas de temps et se dirige vers la sortie. Il ne reviens qu'une seule fois pour vous remercier et continue son chemin. Ton phœnix te dit alors 'Bravo, vous l'avez libéré ce pauvre ogre, il vivait seul dans la peur depuis milles ans",none
+116,117,0,"Vous voilà face au portail, votre délivrance. Tu te remémore toutes ces semaines passés dans la crasse et sur les routes. Mais aussi les rencontres que tu as faites, Nemes et ton phœnix. Tu réalise soudain qu'il ne va pas te suivre à travers le portail, il appartient à ce monde. L'oiseau se place alors sur le sol. et soudain il s'embrase. Après quelques seconde, il ne reste de lui plus qu'une plume, aux couleurs de braise.
+Sous le choc tu ne parviens plus à bouger. Pourquoi s'est il embrasé de la sorte ?
+Nemes te dit alors: - C'est un phœnix camarade, c'est son cycle de vie. Il a terminé sa mission, il va renaitre ailleurs et vivre une nouvelle vie.",none
+117,118,0,Vous faites de nouveau face au portail. Il est temps de le franchir. Vous avancez.,none
+118,119,0,"Tu te réveilles soudainement et te redresses. Tu es allongé sur un canapé, dans un appartement, ton appartement.
+Tu es sorti, tu es de retour dans ton monde. Cela n'était-il qu'un rêve ?
+En regardant autour de toi, tu vois, posé sur ta table basse, un livre épais avec une couverture en cuire sombre. Le titre de l'ouvrage te fait comprendre comment mais sans pour autant t'apporter des réponses.",appartement.jpeg
+119,0,0,"BRAVO, tu as réussi à sortir du livre et à rentrer chez toi. Si tu le souhaites, rejoues pour découvrir des éléments cachés ou d'autres fins ! (joueur est sorti)",none
+120,121,0,"La nuit tombe vite. Après un repas copieux apporté par une servante, tu décides d’aller te reposer. Le phœnix se place sur le balcon.
+Tu t'endors.",166.jpg
+121,122,122,"Tu es réveillé par des coups toqués à la porte. Tu n’as pas aussi bien dormi que tu l’espérais. Tu es toujours un peu fatigué et courbaturé au niveau des épaules et des jambes. Alors que tu ouvres la porte, tu te retrouves nez à nez avec une servante.
+-Prépares toi vite le Roi t'attend! Te dit-elle avant de repartir rapidement. 
+Quel tenue choisis-tu ? 
+[GAUCHE] La tenue de gauche 
+[DROITE] La tenue de droite",169.png
+122,123,0,"Quand tu sors de ta chambre, deux gardes arrivent pour te conduire auprès du roi. Tu es installé à une table. Le roi se joint quelques instants plus tard à toi. Il t'explique comment va se dérouler la quête:",6.png
+123,124,125,"- Ma fille est enfermée dans la demeure du monstre. Nous allons devoir récupérer la clé de la porte qui nous mène à son antre. C'est une sirène qui la possède. Elle est malveillante et imprévisible donc il faudra l’éliminer avec la plus grande discrétion. Pour cela nous allons mettre en place un plan d’action dans lequel il faut que tu discutes tranquillement avec la sirène pour la distraire puis mes gardes se changeront d'elle. 
+[GAUCHE] - Mais qu'a-t-elle fait ? 
+[DROITE] - Sommes nous vraiment obligés de la tuer ?",6.png
+124,126,0,"- C'est une criminelle elle attire des hommes avec une clé et leur pose des énigmes sans bonne réponse pour les tuent si ils répondent faux, il est donc nécessaire pour le bien de tous et pour récupérer la clé de l'éliminer",6.png
+125,126,0,"- Oui absolument, elle est dangereuse si on ne la tue pas elle nous tuera.",6.png
+126,127,0,"Accompagné d’une immense horde de gardes et du roi, vous vous rendez chez la sirène. Vous arrivez dans ce qui semble être un vaste lac souterain entouré de rochers qui ne te mettent que moyennement en confiance. 
+Tu aperçois au loin la silhouette d’une sirène, elle semble te reconnaître immédiatement et s'exclame: 
+- Bonsoir jeune gens. Vous êtes dans mon territoire ici et avez l’air bien appétissant !Un festin qui vient de son plein gré c’est pas beau ça haha !
+Toi là bas, dit-elle en te pointant du doigt. Je te propose de jouer à un p’tit jeux, je te pose des questions et si tu réponds bien je t’épargne.
+Et vu que je suis de bonne humeur je vais même t’offrir quelque chose, dit-elle en révèlant une clé attachée à sa taille.",177.jpeg
+127,128,130,"Le Roi ordonne à un garde de s’emparer de la clé. Cependant la Sirène ne semble pas contente qu'on ne veuille pas jouer à son jeu. Elle devient agressive. Avant qu’elle n’ait dit un seul mot elle se fait trancher la tête par un des garde. Tu es choqué quant à la violence de cet acte mais le Roi tente de te rassurer en te disant :
+- Cela était nécessaire et c’était pour la bonne cause ! Garde ton sang froid bon sang!
+[GAUCHE] Tu t'exclame : 'Mais vous êtes malade'
+[DROITE] Tu ne dis rien",grotteroi.png
+128,129,131,"le Roi répond: 'Es-tu sûr de ce que tu viens de dire ?'
+[GAUCHE] 'OUI !' 
+[DROITE] 'non.. Excusez moi'",grotteroicolere.png
+129,132,0,"Dans un excès de rage le Roi ordonne aux gardes:
+- Emmenez ce scélérat à la guillotine !!
+Tu es exécuté en public le jour même…",185.jpg
+130,133,135,"Il t'explique 'Parfait, désormais nous devons nous rendre chez le serrurier-forgeron qui pourra nous en apprendre davantage sur cette clé et comment ouvrir la porte.' Vous vous rendez donc dans un commerce non loin de l’antre de la sirène et entendez déjà les coups de marteau sur l’enclume et les métaux en train d’être modelés grâce à la chaleur. Tu aperçois un métal dorée serait-ce de l'or ? 
+[GAUCHE] Prendre l'or 
+[DROITE] Continuer d'avancer",tas_dor.jpg
+131,130,0,le roi réplique : 'Je préfère cela !' ,6.png
+132,0,0,"Tu as débloqué la fin: 
+MORT GUILLOTINÉ",185.jpg
+133,134,0,Tu te brûles en voulant voler l'or ce qui attire l'attention du serrurier qui s'exclame 'Vous êtes venu chez moi pour voler vin donc sortez d'mon magasin',184.png
+134,136,0,"Le Roi réagit brutalement à ton échec, tu es emmené dans un cachot et prend la place d’un prisonnier qui va lui être exécuté. Tu va désormais être le prisonnier du Roi pour l’éternité et lui donner des informations pour qu’il puisse trouver la porte et la franchir…",cachot.jpg
+135,136,137,"Vous interpellez un serrurier grand roux avec une longue barbe et une carrure imposante et lui montrez la clé qui semble choquer le serrurier, il s’exclame alors: 'Avant d'vous aider pour la clé t'pourrais avoir l’amabilité d’aller m'chercher du bois, des pierres cylindriques, d'la poussière d’étoile et d’attendre 4-5 jours que je finisse ce à quoi j'suis occupé.' 
+[GAUCHE] Tu aides le serrurier 
+[DROITE] Tu n'as aucune envie de l'aider",184.png
+136,0,0,fin tu es enfermé par le Roi en prison ,fintragique.jpg
+137,139,0,"Tu essayes de persuader le roi d’attendre que le serrurier ai fini. Tu arrives donc à convaincre le Roi de t'aider, il semble peu séduit à cette idée rabaissante lui qui n’a jamais travaillé pour quelqu'un, mais enfin puisque tu insistes c’est toi qui t’en occuperas, Tu sors du commerce et trouves deux trois rondins de bois fraîchement coupés, tu les apportes au serrurier qui te demandes encore une autre tâche, et ça 2 fois puis il parle:
+",none
+138,141,142,"Vous refusez d’aider le forgeron qui semble agacé mais il leur montre tout de même où vous devez aller, il s’agit d’une forêt habitée de petites créatures semblants inoffensives et bienveillantes, l’une d’elle semblant être leur représentante adresse au Roi et à toi : 'Vous venez de la part du forgeron c’est ça?' Vous répondez ' Oui c'est ça'. Les créatures vous expliquent ' Nous avons préparé un repas en votre honneur accepteriez vous de le manger en notre compagnie?' 
+[GAUCHE] Tu acceptes le repas 
+[DROITE] Tu n'acceptes pas le repas",none
+139,140,138,"'T’veux savoir cmt faire une clé d’velours, il faut utiliser un matériau très spécial qu’on y trouve pas de partt, t’sais ? C’est...
+Et il met arrivé queque’chose d'extraordinaire durant ma vie, l’mariage avec ma femme qui est malheureusement décès y a peu, mais mon fils m’aide bcp au quotidien et j’le remercie d’veiller sur moi jour et nuit.'  
+[GAUCHE] Attendre 
+[DROITE] 'Oh tu parles trop !'
+",139.png
+140,153,154,"'Merci de m’avoir écouté, j’en suis ému mais tu voulais savoir quoi déjà de base, je me suis égaré ?'
+lui explique 'Vous dvez trouvé les ptiotes bêtes la vous savez hmmmm attendez je réfléchis hmmmmm dur d'me rappeler ah oui jcrois bin que c'est les elfes oui c'est ça qui vous aideront à forger la vrai clé'. Vous marchez de nombreuses heures avant d’arriver dans une immense antre qui paraît irréelle
+",139.png
+141,143,0,"Vous acceptez donc ce bon repas, le savourez puis tout d’un coup vous êtes pris d’une forte migraine et commencez à être pris d’hallucinations, vous voyez votre environnement devenir rose clair, devenir flou et commencez à avoir une vision distordue de la réalité.",139.png
+142,144,145,"Vous refusez le repas, cependant cela à pour effet d’énerver les créatures qui deviennent agressives et menaçantes prêtes à attaquer. 
+[GAUCHE] Tu préviens le roi et lui demande de les tuer 
+[DROITE] Tu préfères les menacer",none
+143,146,0,"Puis tout devient noir, Vous vous réveillez dans une cage et à ce qu’il semble être une vente, Vous entendez les enchères monter et comprenez que vous êtes sur le point d’être vendus à une riche créature. Vous êtes emmenés dans un champ et on vous explique 'Désormais vous n'êtes plus que des esclaves qui obéissent sans se plaindre et vous êtes condamnés à cette peine pour l’éternité…'
+",cageescalve.jpg
+144,147,0," le Roi ordonne aux gardes d'exterminer les créatures. il n'y a aucunes survivantes. Vous êtes toujours escortés par les nombreux gardes vous rentrez au château et le Roi explique 'Nous y sommes presque, la prochaine étape est de trouver la porte!'",none
+145,148,0,"les créatures se ruent sur vous et vous dévorent sans pitié, il n'y a plus aucune trace de vous... ",none
+146,0,0,fin vous finissez esclaves pour l'éternité ,fintragique.jpg
+147,149,150,"Le roi t'envoies chercher la porte, apparemment tu es le seul à pouvoir la trouver. Cela fait 4 jours que tu ne trouves rien. Vous campez devant une forêt avant de rentrer le lendemain. Alors que tu fais un tour avant d'aller te coucher. 
+[GAUCHE] Tu t'enfonce dans la forêt sans prévenir personne 
+[DROITE] Aller avertir les gardes et chercher le roi ",none
+148,0,0,fin vous finissez mangés ,fintragique.jpg
+149,151,0,"Tu t'enfonces de plus en plus dans la forêt. Il fait sombre. Tu entends un bruit et te retournes. Ton phœnix a disparu ! Tu te sens alors tomber en avant, mais à la place de frapper le sol tu sens une forte chaleur ",none
+150,152,0,"Tu rentres au château en n'ayant rien trouvé et l’annoncer au Roi qui réagit brutalement à ton échec, tu es emmené dans un cachot et prend la place d’un prisonnier qui va lui être exécuté. Tu vas désormais être le prisonnier du Roi pour l’éternité et lui donner des informations pour qu’il puisse trouver la porte et la franchir... ",none
+151,0,0,le joueur change de royaume ,nouveauroyaumedujoueur.jpg
+152,0,0,fin tu es enfermé par le Roi en prison ,fintragique.jpg
+153,155,157,"Tout est éclairée et joyeux ils rencontrent deux elfes qui leur demandent 'on peut vous aider messieurs?' et aperçoivent directement la clé et leur explique 'Pour forger la clé finale une plume du petit animal qui vous suit est nécessaire', Tu as peur de lui faire du mal mais le Roi sans prévenir arrache violemment la plume du Phoenix, cela semble surprendre tout le monde qui voit dans les yeux du Roi une certaine haine.
+[GAUCHE] Tu prends ton phœnix dans tes bras 
+[DROITE] Tu rigoles",none
+154,156,0,Les elfes sont vexés et vous tuent ,none
+155,157,0,Le Roi dit : 'Oh ça va il va bien y'a pas mort d'Homme!',none
+156,0,0,les elfes te tuent parce que tu es méchant ,none
+157,158,159,"Vous passez à autre chose et les elfes commencent à forger la clé à l’aide de la plume de phœnix la clé est colorée d’une couleur orange enflammée, les forgerons vous la donne. Le roi te demandes ensuite: 'Trouves la porte à l’aide de la clé pendant je règles quelque chose pendant ce temps.' 
+[GAUCHE] 'Où allez vous ?' 
+[DROITE] Tu accèptes",none
+158,159,0,le Roi répond : 'Cela ne te concerne en rien !',none
+159,160,0,"Le roi se rend dans le marais chez la Sorcière et lui et ses gardes la tue et lui vole ses potions qu’il pourra revendre cher. Tu cherches quant à toi, cherches longtemps cette porte et suit des sentiers qui apparaissent comme pour te guider à l’aide de la clé quant enfin tu aperçois une immense porte qui semble mener dans un autre monde ",5.jpg
+160,161,162," Tu est très impressionné tu vas chercher le Roi pour montrer ta trouvaille. Le Roi lorsqu’il apprend cette bonne nouvelle laisse paraître un sourire diabolique et jouissif mais tu n’y fais pas attention. Vous vous dirigez donc vers la porte l’ouvres à l’aide de la clé, la porte s’ouvre comme par magie laissant paraître une énorme lueur à son ouverture puis vous vous avancez pour rentrer dans ce monde inconnu 
+[GAUCHE] Tu as trop peur pour avancer 
+[DROITE] Tu entres sans peur",none
+161,162,0,Le roi te pousses a l'intérieur et te dis 'Allez dépêche toi arrête de faire la mauviette',none
+162,163,164,"Une fois rentré tout vous paraît gigantesque et vous apercevez une immense silhouette quelque chose de monstrueux et répugnant, il s’agit d’Izug le gardien de la porte et vous allez devoir l’affronter pour vous échapper. Tu commences à le combattre et réfléchis à une stratégie pour t’en sortir. Seulement pendant que tu combats le titanesque gardien. 
+[GAUCHE] Tu amadoues le géant 
+[DROITE] Tu te bats contre cette bête ",104.png
+163,164,0,le géant attaque le joueur sans réflechir ,104.png
+164,165,0,"le Roi en profite pour ouvrir la porte vers le monde réel et referme la porte derrière lui qui disparaît immédiatement. Tu aperçois la porte qui réapparaît et essayes de l’ouvrir, cela est difficile mais tu y arrives enfin seulement quand tu ouvres la porte tu es aspiré par celle-ci qui mène à un monde fait de néant. ",none
+165,166,0,"Tu t'évanouis pris par les émotions et te réveilles dans une forêt te rappelant quelque chose mais tu ne te souvient plus de qui tu es et où tu te trouve. Le Roi quant à lui découvre un monde qui lui paraît inconnu mais en même temps une grande envie de destruction et de pouvoir dans ce monde l’envahit. Cependant, dans ce monde il paraît énorme et inarrêtable… ",none
+166,0,0,fin le Roi sort et tu es bloqué,fintragique.jpg
+167,168,169,"Tu entres dans la cabane étroite et tu tombes nez à nez avec une sorcière peu familière et rassurante qui s’adresse à toi froidement
+-Assit toi j’ai des choses à t’expliquer, d’abord j’ai des questions à te poser sais-tu qui tu es, pourquoi tu es ici et que dois tu faire ?' 
+[GAUCHE] 'Je suis victime d'une malédiction' 
+[DROITE] 'Je sais plus qui je suis, je suis perdu et je ne connais pas ce monde…'",167.png
+168,170,0,"'Pas vraiment, c'est plus complexe que cela'",167.png
+169,170,0,"'Ne t'en fais pas, je vais t'expliquer la situation",167.png
+170,171,0," -Jeune voyageur, tu es entré dans notre monde qui t'est étranger. Par mégarde tu as franchit un portail comme bien d'autre avant toi. 
+Maintenant si tu veux retourner dans ton monde et reprendre ta vie d’avant,  il va falloir que tu trouves certains objets qui te permettront de trouver la sortie de ce monde merveilleux. Tout d’abord il va falloir que tu récupères une clé qui va te permettre d’ouvrir une porte et enfin trouver la porte te libérant de ce rêve. 
+D’ailleurs pour t’aider dans ton aventure je vais te confectionner des potions qui vont pouvoir t’être utile. 
+N'oubli pas de revenir les chercher plus tard… '",167.png
+171,172,0,Tu reprends ton périple qui t’amène en direction de la sirène Parthénope. Elle a l’air de vouloir parler avec toi donc tu vas à sa rencontre.,177.jpeg
+172,173,0,"'Bonsoir jeune gens, tu viens d’arriver dans mon territoire et tu as l’air bien appétissant dis-moi, une proie qui vient de son plein gré c’est pas beau ça haha, ça n’arrive pas tout les jours crois moi !
+Je te propose de jouer à un p’tit jeux, je vais te poser des questions et si tu réponds bien je t’épargne. Et je t'offre cette clé ",177.jpeg
+173,174,175,"‘L’énigme est la suivante :
+ Je grandis sans être vivant. Je n'ai pas de poumon, mais j'ai besoin d'air pour vivre. L'eau, même si je n'ai pas de bouche, me tue, qui suis-je ?’
+[GAUCHE] le feu 
+[DROITE] des cendres",177.jpeg
+174,176,0,"'Bon tu es plus perspicace que je le pensais, je vais te poser une autre question…'",177.jpeg
+175,179,0,"'Ahah tu ne sers à rien mon p’tit gars, ta fin est proche mon amis' (le joueur meurt) ",fintragique.jpg
+176,177,178,"Énigme 2 : 
+Ce qui peut ramener les morts, te fait pleurer, te fait rire, te rend jeune, naît en un instant mais dure toute une vie... 
+[GAUCHE] la mémoire 
+[DROITE] un souvenir",177.jpeg
+177,181,0," - Grr !! Je n'ai qu'une parole alors je vais te donner la clé et te laisser partir mais la prochaine fois que je te vois, je te dévore avant que tu n'ai eu le temps d'ouvrir la bouche. Maintenant vas-t-en !!",177.jpeg
+178,182,0,"- Hahaha, tu t'es trompé, tu vas donc me servir de repas pour aujourd'hui. Quel dommage pour toi, tu avais eu juste à la première enigme",177.jpeg
+179,180,0,"La sirène te tue par énervement car elle ne peut pas jouer avec toi, t’as répondu faux dès la première énigme. De rage elle te noie dans son étang.",171.PNG
+180,0,0," Malheureusement, tu es mort dévoré par la sirène:
+DÉVORÉ PAR LA SIRÈNE",fintragique.jpg
+181,184,0,"Tu récupères la clé. Elle est bien légère...",criquesirene.jpeg
+182,181,0,"Tu es tétanisé alors qu'elle se rapproche de toi comme un serpent. 
+Ton phoenix s'envole de ton épaule. Un halo de flamme l'entour et une forte chaleur émane de lui. Soudain il projette d'énormes flammes sur la sirène qui se met à hurler.
+Apres quelques seconde, il flotte dans l'air une odeur de poisson grillé. Ton phoenix se replace sur ton épaule et emet un petit son satisfait. Heureusement qu'il est avec toi !
+Tu plonges la main dans l'eau là ou gît les cendres de la sirène et récupère la clé.
+La grotte est baigné d'une lueure rouge et de fumé. Il te faut vite sortir si tu veux pouvoir respirer à nouveau",criquesirene.jpeg
+183,184,0,Le joueur possède un patron de la clé pour ouvrir la porte de sortie finale.,none
+184,185,0,"Tu décides de quitter cet endroit qui n’inspire pas confiance…
+Tu prends un chemin pour partir à la recherche d’un village afin de trouver un moyen de forger cette fameuse clé.
+Sur ton chemin, tu croises un serrurier nommé Sammede, qui a un problème donc il va avoir besoin de ton aide. Mais tu vas avoir la choix de l'aider ou pas.
+",184.png
+185,186,187,"'Bonjour mon ami, j’aurais un service à te demander si ça te dérange pas... Il faudrait que tu m'aides s'il-te-plaît' 
+[GAUCHE] aider 
+[DROITE] ne pas aider",184.png
+186,188,0,"'Ooohh c’est très gentil de ta part, ça me touche. Je vais t’aider à mon tour dans ta quête en te faisant passer par un raccourcis pour accéder au village des elfes, c’est bien là que tu dois te rendre ?' (oui)",184.png
+187,189,0," 'oh c’est bien dommage, vous comptez aller ou comme ça ?' (village de elfes)",184.png
+188,190,0,"Arrivée au village des elfes accompagnés par le serrurier, le joueur part à la rechercher d'un forgeron pour faire sa clé. Lorsqu’il le trouve, il apprend qu’il lui faut une plume de phœnix donc il s’adresse à son compagnon pour lui léguer une de ces plumes, sans trop lui laisser de choix.
+→ fabrication de la clé
+
+",zoomvillagedeselfes.jpeg
+189,191,0,"Vous acceptez donc ce bon repas, le savourez puis tout d’un coup vous êtes pris d’une forte migraine et commencez à être pris d’hallucinations, vous voyez votre environnement devenir rose clair, devenir flou et commencez à avoir une vision distordue de la réalité.",184.png
+190,200,201,"Le joueur quitte le village des elfes et le narrateur demande : 'As-tu tout en main pour aller à la porte ?' 
+[GAUCHE] oui 
+[DROITE] non",villageelfes.jpeg
+191,192,193,"'Toi humain, voudrais-tu manger un p’tit fruit en notre compagnie nous ne te voulons aucun mal ?' 
+[GAUCHE] accepter le fruit 
+[DROITE] refuser le fruit",196.png
+192,194,0,"Tu ressens un gain de force et tu te sens invincible. Les monstres contents de ce moment partagé à tes côtés, vont lui donner une clé (soi-disant être la bonne clé, il n’a pas besoin de la forgé) et te guide vers l’arbre sacré ou tu devrai trouver le roi de la forêt.",196.png
+193,195,0,les monstres se retrouvent vexés donc ils décident de se venger de ta méchanceté. ,196.png
+194,196,0,"Tu tombes sur le Cerf (roi de la forêt) (enclenche quête de la porte). Le Cerf va
+te guider jusqu’à une porte où derrière se trouve Izug.
+",0.jpeg
+195,197,0,Ils t’amènent dans une toute autre direction et te jettent dans un trou qui est enfaite un passage direct qui mène aux enfers. Cela te mène dans une incompréhension totale et tu restes bloqué dans les enfers pour le reste de ta vie.,cheminenferfinale.jpeg
+196,198,0,"le combat va alors commencer entre le joueur et Izug
+(gain de force avec les monstres → pas besoin de po°)",104.png
+197,0,0,histoire bloqué,fintragique.jpg
+198,199,0,"A la fin du combat, tu ne parviens pas à ouvrir correctement la porte de la sortie finale car tu n’as pas eu la bonne clé (celle des monstres) alors tu te retrouves dans une illusion crée par cette fausse clé et tu crois malgré tout être sortie de ce monde.",harche.jpg
+199,0,0,histoire sans fin déclarée,fintragique.jpg
+200,202,0,Tu pars en direction de la foret pour trouver la porte,foret.jpeg
+201,216,0,"Tu viens de te souvenir que la sorcière t'avais demandé de repasser la voir pour obtenir les potions pour la suite
+Sur ton chemin tu fais la rencontre  avec un groupe de créature >>>",none
+202,203,204,"'Oh mais tu es nouveau dans le coin, toi on ne t'as pas vu encore'
+Tu es du coin ?
+Tu connais la sorcière, tu ne peux pas la louper, elle est tellement spéciale mais dans le fond elle reste gentille, tu sais...
+On l'a considère comme notre deuxième mère
+etc 
+[GAUCHE] les ignorer 
+[DROITE] les écouter",none
+203,205,0,"Dans la forêt, le joueur fait la rencontre du Cerf sacré qui va le guider jusqu'à une porte intermédiaire avant de rejoindre la porte de sortie définitive.",0.jpeg
+204,206,0,"Ah ouiiii, faut que j'aille la voir",none
+205,207,0,"Tu constates que ta capacité physique ne te permet pas de passer face à ce gardien très imposant qui se tient devant toi, donc tu décides de communiquer avec lui pour gagner sa confiance.",104.png
+206,208,0,"Tu as trop confiance en toi, donc tu décides de repousser Izug par le force",104.png
+207,209,0,"'Vous travaillez pour quelqu'un monsieur l'ogre ?, votre vie n'a pas l'air heureuse j'aimerai pouvoir vous aider, qu'en pensez-vous de copérer avec moi Izug'",104.png
+208,210,0,Tu te fais massacrer par le gardien et tu tombe dans les pommes  (Tu n'as plus qu'à retenter ta chance pour sortir),fintragique.jpg
+209,211,0,Vous lui proposez de le laisser passer en lui garantissant qu'il sera libre après cet acte,104.png
+210,0,0,Joueur tombe dans les pommes 'Game over',fintragique.jpg
+211,212,0," Tu réalise soudain que ton phoenix ne va pas te suivre à travers le portail, il appartient à ce monde. L'oiseau se place alors sur le sol et soudain il s'embrase. Après quelques seconde, il ne reste de lui plus qu'une plume, aux couleurs de braise.
+Sous le choc tu ne parviens plus à bouger. Pourquoi s'est il embrasé de la sorte ? 
+Tu fais de nouveau face au portail. Il est temps de le franchir. Tu avances.",none
+212,213,0,"Tu te réveilles soudainement et te redresses. Tu es allongé sur un canapé, dans un appartement, ton appartement.
+Tu es sorti, tu es de retour dans ton monde. Cela n'était-il qu'un rêve ?
+En regardant autour de toi, tu vois, posé sur ta table basse, un livre épais avec une couverture en cuire sombre. Le titre de l'ouvrage te fait comprendre comment mais sans pour autant t'apporter des réponses.",appartement.jpeg
+213,0,0,"BRAVO, tu as réussi à sortir du livre et à rentrer chez toi. Si tu le souhaites, rejoues pour découvrir des éléments cachés ou d'autres fins ! (joueur est sorti)",none
+214,215,0,"Lorsqu’il arriva devant sa maisonnette, il aperçut un message à côté de la porte avec un sac lui disant 'Désolé j’ai eu une affaire urgente à régler, je t’ai laissé dans ce sac les deux potions dont je t’avais parlé. Fais en bon usage et je te souhaite de réussir ! signé Edna'.",5.jpg
+215,216,0,"Tu reprends ton chemin avec le sac fraichement récupéré, puis tu pars à la recherche de la porte pour sortir de ce monde inconnu. (la quête de la porte est lancée)
+Dans la forêt, tu fais la rencontre du Cerf sacré qui va le guider jusqu'à une porte intermédiaire avant de rejoindre la porte de sortie définitive.",0.jpeg
+216,217,218,"C’est le moment d’utiliser les potions de la sorcière et le moment d’être stratégique sachant qu’il ne sait pas ce qu’il se trouve derrière cette porte. 
+[GAUCHE] potion feu 
+[DROITE] potion plante",106.jpg
+217,219,0," Tu bois cette potion oranger et tu te rends compte que t'es entrain de gagner énormément en force cela va te permettre de combattre Izug avec plus de chance de réussite.
+Après ce combat fatiguant, tu parviens à atteindre la porte finale et tu perds les effets de la potion prise y a quelques minutes (sans avantage physique) et tu sors du monde fantastique !
+Tu as réussi ton aventure d'une manière remarquable !",104.png
+218,220,0," Tu bois cette potion bleutée et tu te rends compte que t'es entrain de gagner énormément en rapidité cela va te permettre de combattre Izug avec plus de chance de réussite.
+Après ce combat fatiguant, tu parviens à atteindre la porte finale et tu perds les effets de la potion prise y a quelques minutes (sans avantage physique) et tu sors du monde fantastique !
+Tu as réussi ton aventure d'une manière remarquable !",104.png
+219,0,0,"BRAVO, tu as réussi à sortir du livre et à rentrer chez toi. Si tu le souhaites, rejoues pour découvrir des éléments cachés ou d'autres fins ! (joueur est sorti)",none
+220,0,0,"BRAVO, tu as réussi à sortir du livre et à rentrer chez toi. Si tu le souhaites, rejoues pour découvrir des éléments cachés ou d'autres fins ! (joueur est sorti)",none

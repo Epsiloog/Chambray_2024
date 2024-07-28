@@ -1,0 +1,8 @@
+lire 
+résumer article
+Se positionner sur l'article, rapprocher l'article à des expériences
+
+vm à récupérer pour TP :
+	- kali linux
+	- metasploit
+	- asterisks

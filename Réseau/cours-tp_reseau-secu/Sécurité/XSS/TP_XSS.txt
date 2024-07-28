@@ -1,0 +1,36 @@
+Mon IP : 192.168.137.1
+MetaEsploit Nathan : 172.20.10.13
+
+Mon metaexploirt (eduroam) : 10.157.14.145
+
+
+172.20.10.2/dvwa/vulnerabilities/xss_r/?name=%3Cb%3Evyda%3C/b%3E#
+
+
+Insérer le script : <script type='text/javascript'>window.alert(document.cookie)</script>
+
+Le danger est le vol de connexion à des sites internet et le vol d'informations
+
+Les stratégies low.php et medium sont similaires. Medium intègre un str_replace pour tenter d'enlever les balises <script> en cas d'insertion de script
+	En conservant la propriétés "type" dans la balise script on contourne la sécurité de la page medium.php, qui ne reconnait plus la balise
+	
+	
+Stored XSS :
+	<script>window.open('www.y.com','_blank')</script>
+Lors qu'on accède à la page XSS Stored, une page supplémentaire s'ouvre.
+Tous les utilisateurs qui accède à la page seront impactés
+
+
+	<script>window.location="https://www.sfr.fr"</script>
+Dès qu'on accède à la page on est redirigé vers le site SFR
+Cette faille pourrait être utilisé pour reproduire une page pirate identique à la page d'origine et recueillir 
+
+
+
+3. Defacing
+
+Le defacing est une attaque qui consiste à modifier le contenu du page cible
+	Attaque XSS
+		On peut lui faire sentir notre désaccord en insérant des redirections vers la page de la SPH
+		On peut insérer un script js pour qu'il modifie le contenu de la page DVWA
+	On pourrait essayer de modifier directement les documents du serveur PHP

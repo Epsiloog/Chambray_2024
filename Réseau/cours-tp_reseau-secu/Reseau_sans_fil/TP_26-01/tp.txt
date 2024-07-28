@@ -1,0 +1,11 @@
+Envoyer commande sur port série et carte répond
+
+Séance avant attente blocante
+
+
+Ex3 implémentation de protocole
+
+1er partie champ controle
+Num séquence
+Adresse du noeud 
+Date

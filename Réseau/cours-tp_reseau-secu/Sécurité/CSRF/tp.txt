@@ -1,0 +1,13 @@
+Cross Site Request Forgery (CSRF)
+
+Exploiter la connexion d'un utilisateur à un site A pour faire des actions avec ses droits
+
+Défenses CSRF, au niveau de :
+	Site A : Authentification unique à un instant T
+		Navigation : ex. limiter possibiliter d executer plusieurs pages
+			Pirate : strucutre et requete du site
+			
+	- jeton aléatoire : permet vérifier l'origine de la requête (valeur de jeton présent uniquement sur la page authorisée)
+	
+	
+But : interrompre requete, modifier et renvoyer
