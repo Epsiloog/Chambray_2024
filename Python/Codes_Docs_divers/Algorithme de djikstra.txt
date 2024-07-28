@@ -1,0 +1,149 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# fichier: dijkstra2.py
+#  auteur: Pascal CHAUVIN
+#    date: 2019/04/21
+# version: 0.4.0
+
+
+
+def minimum(liste):
+  ind_mini = 0
+  bascule = False
+  for i in range(len(liste)):
+    if type(liste[i]) is tuple:
+      if bascule == False:
+        bascule = True
+        ind_mini = i
+      elif liste[i][0] < liste[ind_mini][0]:
+        ind_mini = i
+  return ind_mini
+
+
+
+def affiche(lignes):
+  for l in lignes:
+    s = "|"
+    for x in l:
+      if type(x) is str:
+        s += "{:^3}|".format(x)
+      if type(x) is tuple:
+        if x[0] == float('inf'):
+          s += "{:^3}|".format(x[0])
+        else:
+          s += "{:^3}|".format(str(x[0]) + x[1])
+    print(s)
+
+
+
+def dijkstraAB(graphe, a, b, montrer=True):
+  debut = a
+  fin = b
+  sommets = sorted(list(graphe.keys()))
+  lignes = [sommets]
+  ligne = []
+  for s in sommets:
+    if s is debut:
+      ligne.append((0, debut))
+    else:
+      ligne.append((float('inf'), debut))
+  lignes.append(ligne)
+  visites = []
+  for s in sommets:
+    if s is not debut:
+      visites.append(s)
+  fixe = debut
+  poids = 0
+  chemin = {}
+  while len(visites) > 0:
+    courante = lignes[-1][:]
+    i = sommets.index(fixe)
+    courante[i] = '-'
+    for k in range(len(courante)):
+      if courante[k] != '-':
+        if lignes[0][k] in graphe[fixe]:
+          p = poids + graphe[fixe][lignes[0][k]]
+          if p < lignes[-1][k][0]:
+            courante[k] = (p, fixe)
+    lignes.append(courante)
+    i_fixe = minimum(courante)
+    poids = courante[i_fixe][0]
+    fixe = lignes[0][i_fixe]
+    chemin[lignes[0][i_fixe]] = (courante[i_fixe][0], courante[i_fixe][-1]) # 2019/04/21
+    i = visites.index(fixe)
+    del visites[i]
+  if montrer:
+    affiche(lignes)
+  s = []
+  p = chemin[fin][0]
+  n = fin
+  while n != debut:
+    s.append(n)
+    n = chemin[n][1]
+  s.append(n)
+  s.reverse()
+  return (p, s)
+
+
+
+def test_dijkstra4(): # non oriente
+  g = {
+    'a': {'b': 16, 'd': 30},
+    'b': {'a': 16, 'd': 36, 'f': 40},
+    'c': {'d': 32, 'e': 15, 'f': 27},
+    'd': {'a': 30, 'b': 36, 'c': 32, 'e': 29, 'g': 60},
+    'e': {'c': 15, 'd': 29, 'f': 30, 'g': 28},
+    'f': {'b': 40, 'c': 27, 'e': 30, 'g': 28},
+    'g': {'d': 60, 'e': 33, 'f': 28}
+  }
+  print(dijkstraAB(g, 'a', 'g'))
+
+
+
+def test_dijkstra5(): # oriente
+  g = {
+    'a': {'b': 4, 'i': 8, 'j': 5},
+    'b': {'c': 5, 'i': 6},
+    'c': {'d': 6, 'i': 4},
+    'd': {'e': 4, 'h': 5},
+    'e': {'h': 3},
+    'f': {'e': 2, 'g': 2, 'h': 3},
+    'g': {'f': 3, 'i': 5, 'j': 4},
+    'h': {'d': 4, 'g': 2, 'i': 3},
+    'i': {'c': 4, 'g': 5, 'j': 3},
+    'j': {'g': 3}
+  }
+  print(dijkstraAB(g, 'a', 'h'))
+
+
+
+def test_dijkstra6(): # non oriente
+  g = {
+    'a': {'b': 16},
+    'b': {'a': 16}
+  }
+  print(dijkstraAB(g, 'a', 'b'))
+
+
+
+def test_dijkstra7(): # non oriente
+  g = {
+    'a': {'b': 1, 'c': 3},
+    'b': {'a': 1, 'c': 2},
+    'c': {'b': 2, 'a': 3}
+  }
+  print(dijkstraAB(g, 'a', 'c'))
+
+
+
+def dijkstra(g, A, B):
+  print(dijkstraAB(g, str(A), str(B)))
+
+
+
+if __name__ == "__main__":
+  test_dijkstra4()
+  test_dijkstra5()
+  test_dijkstra6()
+  test_dijkstra7()

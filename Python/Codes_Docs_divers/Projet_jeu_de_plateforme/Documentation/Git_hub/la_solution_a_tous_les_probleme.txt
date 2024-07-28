@@ -1,0 +1,6 @@
+
+LES BRANCHES AVEC GIT ET GITHUB
+
+master : -----------------------------------------
+physiques du jeu : \------------------------------
+sauter :              \--------/ crouch : \---/
